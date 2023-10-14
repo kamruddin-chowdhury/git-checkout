@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage (Hello){
       steps{
-        echo "Bismillahir Rahmainir Rahim"
+        echo "Bismillahir Rahmanir Rahim"
       }
     }
   }
